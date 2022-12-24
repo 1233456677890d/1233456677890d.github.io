@@ -54,7 +54,7 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: S C
+author: cs
 organization: 
 organization_url: 
 github_username: 1233456677890d
@@ -177,6 +177,7 @@ simple_jekyll_search:
 # ---------------- #
 #      Google      #
 # ---------------- #
+# 
 google:
     analytics_id: G-9DSD1GNPYX
     adsense:
