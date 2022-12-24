@@ -54,12 +54,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: S C
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: 1233456677890d
+location: HangZhou, China
+email: cs361998@gmail.com
 
 # ---------------- #
 #    Navigation    #
@@ -73,13 +73,13 @@ navs:
     href: /categories/
     label: 分类
 
-#   -
-#     href: /archives/
-#     label: 归档
+  -
+    href: /archives/
+    label: 归档
 
-#   -
-#     href: /open-source/
-#     label: 开源
+  -
+    href: /open-source/
+    label: 开源
 
   -
     href: /wiki/
@@ -131,7 +131,7 @@ collections:
 #      Comments    #
 # ---------------- #
 # support provider: disqus, gitment, gitalk, utterances, beaudar, giscus
-comments_provider: giscus
+comments_provider: gitalk
 # !!!重要!!! 请修改下面这些信息为你自己申请的
 # !!!Important!!! Please modify infos below to yours
 # disqus 配置参考：https://disqus.com
@@ -143,13 +143,13 @@ gitment:
     repo: blog-comments
     oauth:
         client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709W
 # gitalk 配置参考：https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
+    owner: 1233456677890d
     repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    clientID: e931ff02bb92e5891238
+    clientSecret: fbd19ae0e21d6dde0425f0cb8b0050da95d5e64b  
 # utterances 配置参考：https://utteranc.es/
 utterances:
     repo: mzlogin/blog-comments
