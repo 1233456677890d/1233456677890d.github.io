@@ -1,19 +1,19 @@
 - name: Software Engineer Keywords
   keywords:
-      - Java
+      - C
       - C++
       - Python
-      - Design Patterns
+      - PHP
 
-- name: Mobile Developer Keywords
+- name: Security Researcher Keywords
   keywords:
-      - Android
+      - Vulnerability Exploiting
       - Reverse Engineering
 
 - name: Windows Developer Keywords
   keywords:
       - Win32 SDK
-      - DuiLib
+      - RPC
       - WTL
       - COM
       - WinDbg
